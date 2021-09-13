@@ -3,3 +3,10 @@
 ```
 key=AIzaSyBNLrJhOMz6idD05pzfn5lhA-TAw-mAZCU
 ```
+
+테스트 방법
+ 
+```shell
+> npm i -g parcel ## parcel 설치
+> parcel index.html ## index.html이 있는 디렉토리에서 실행합니다.
+```
